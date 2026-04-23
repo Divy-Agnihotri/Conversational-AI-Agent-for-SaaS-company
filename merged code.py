@@ -10,7 +10,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 
 
 # 🔑 Set API key
-os.environ["GEMINI_API_KEY"] = "AIzaSyCzCwpCBiblguORVq_XY9murb3Uk-ZUILE"
+os.environ["GEMINI_API_KEY"] = "getyourown"
 
 client = genai.Client()
 
